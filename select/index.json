@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "起死開戦",
+  "base_artist": "millsage",
+  "createdAt": "2026-03-06T23:04:30.690099Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "起死開戦",
+      "artist": "millsage",
+      "has_synced": true,
+      "path": "select/01_起死開戦_millsage.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "起死開戦",
+      "artist": "millsage",
+      "has_synced": false,
+      "path": "select/pl_01_起死開戦_millsage.txt"
+    }
+  ]
+}
